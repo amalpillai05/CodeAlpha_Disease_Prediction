@@ -1,4 +1,4 @@
-**DISEASE PREDICTION**
+##**DISEASE PREDICTION**
 
 ## **PROJECT OVERVIEW**
 In the modern healthcare landscape, early disease prediction plays a crucial role in improving patient outcomes and optimizing medical resources. The **Disease Prediction Model** leverages machine learning techniques to analyze patient data and provide predictive insights into potential health conditions. By utilizing historical medical records and symptom-based analysis, this project aims to enhance early diagnosis and preventive care strategies.
